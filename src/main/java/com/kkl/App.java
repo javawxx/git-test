@@ -12,5 +12,6 @@ public class App
         System.out.println("feature1第一次提交");
         System.out.println("feature2第一次提交");
         System.out.println("feature3第一次提交");
+        System.out.println("feature4第一次提交");
     }
 }
